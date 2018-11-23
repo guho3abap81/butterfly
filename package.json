@@ -1,0 +1,16 @@
+{
+  "name": "butterfly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/guho3abap81/butterfly",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
